@@ -386,7 +386,7 @@ hr {
   }
   /*************Hero************************/
   #hero_main {
-    height: 90vh;
+    height: 75vh;
   }
   .hero-text h1 {
     font-size: 21px;
@@ -394,11 +394,11 @@ hr {
     margin-top: 100px;
   }
   .hero-img img {
-    width: 80%;
+    width: 70%;
   }
 
   .hero-content {
-    height: 80vh;
+    height: 70vh;
   }
   /***************features*****************/
   #features {
